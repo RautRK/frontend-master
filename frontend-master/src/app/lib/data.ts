@@ -620,7 +620,7 @@ export const busesData = [
 // YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
 const baseYear = 2025;
 const baseMonth = 4; // May (0-based)
-const baseDay = 12; // Monday, May 12, 2025
+const baseDay = 18; // Saturday, May 18, 2025
 
 export const calendarEvents = [
   {
